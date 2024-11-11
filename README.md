@@ -72,3 +72,6 @@ https://docs.google.com/spreadsheets/d/1yWCj2Laasi-NAgEUjDnmWP9YLzffPMy8yPNK_Hvj
 
 Para resumir o projeto, foi criado um video de apresentação, com o link abaixo:  
 https://youtu.be/w1Y3Ab6BSK8
+
+## Protótipo de Alta Fidelidade
+https://github.com/nettopasquale/illusoes-bootstrap
