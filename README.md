@@ -74,4 +74,4 @@ Para resumir o projeto, foi criado um video de apresentação, com o link abaixo
 https://youtu.be/w1Y3Ab6BSK8
 
 ## Protótipo de Alta Fidelidade
-[https://github.com/nettopasquale/illusoes-bootstrap](https://www.figma.com/design/u53GnZZCyBt0fpS7MOfxXG/IlusInd-Alta?node-id=0-1&t=0U6KXqIIeoSDzA2s-1)
+https://www.figma.com/design/u53GnZZCyBt0fpS7MOfxXG/IlusInd-Alta?node-id=0-1&t=0U6KXqIIeoSDzA2s-1
