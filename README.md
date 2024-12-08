@@ -15,13 +15,14 @@ A plataforma oferece espaço para:
 - [x] Criação de artigos sobre os mais recentes acontecimentos no mundo dos card games
 - [x] Um fórum de discussões para os usuários
 - [x] Organização de campeonatos locais, que permite sorteios e prêmios em produtos ou dinheiro arrecadado da comunidade
-- [x] Leilões de cartas e outros produtos relacionados, com total segurança da plataforma
+- [x] Ecommerce para venda de produtos de card games
 - [x] Personalização de coleções
-- [x] Streaming de eventos e campeonatos pela plataforma 
 
 No Futuro, a plataforma pretende adicionar:
-- [ ] Ecommerce para venda de produtos de card games
 - [ ] Ferramentas de análise e métricas de desempenho, como de CRM e relatório de vendas
+- [ ] Streaming de eventos e campeonatos pela plataforma
+- [ ] Leilões de cartas e outros produtos relacionados, com total segurança da plataforma
+- [ ] Planos pagos com novas funcionalidades
 
 ## Modelo de negócio e tamanho de mercado: 
 A plataforma permite o cadastro gratuito para qualquer pessoa. para todas elas, bastará apenas um cadastro do perfil, para que seja possível escrever artigos, organizar eventos e campeonatos, particiar do forum, divulgar cartas em leilões, etc.  
@@ -44,14 +45,11 @@ Usuários poderão participar do fórum de discussão para a comunidade, com tem
 ## Campeonatos  
 Usuários podem organizar campeonatos locais, desde que eles atinjam um número mínimo de participantes. Os campeonatos devem contar com algum tipo de premiação. No plano pago, a partaforma ajuda na divulgação, organização e no streaming do evento.
 
-## Leilões  
-Usuários podem leiloar suas cartas pela plataforma. Nela é oferecido os valores do leilão e histórico de preços. A plataforma garante segurança para que não aconteça fraudes.
+## Anúncios  
+Usuários podem vender suas cartas pela plataforma. Nela é oferecido os valores e histórico de preços. A plataforma garante segurança para que não aconteça fraudes.
 
 ## Personalização de coleções  
 Usuários poderão registrar suas cartas e criar coleções personalizadas, para ter como objetivo completar suas coleções. A plataforma ajuda os usuários indicando novas oportunidades para eles completarem suas coleções.
-
-## Streaming  
-Para os eventos e campeonatos realizados no plano pago, a plataforma irá divulgar esses eventos ao vivo, e as pessoas poderão acompanhar pelo site.
 
 ## Personas: 
 Foram definidas quatro personas para o projeto do E-commerce:  
@@ -68,10 +66,13 @@ Para mapear as interações dos vários perfis de usuário com o nosso produto e
  
 https://docs.google.com/spreadsheets/d/1yWCj2Laasi-NAgEUjDnmWP9YLzffPMy8yPNK_HvjcNk/edit?gid=1947507297#gid=1947507297
 
-## Video de apresentação
+## Video de apresentação - Baixa Fidelidade
 
 Para resumir o projeto, foi criado um video de apresentação, com o link abaixo:  
 https://youtu.be/w1Y3Ab6BSK8
 
 ## Protótipo de Alta Fidelidade
 https://www.figma.com/design/u53GnZZCyBt0fpS7MOfxXG/IlusInd-Alta?node-id=0-1&t=0U6KXqIIeoSDzA2s-1
+
+## Video de Apresentação do Protótipo de Alta Fidelidade
+https://youtu.be/HXytk92nlQ4?si=-mtzXdY7_JZ0iSH1
